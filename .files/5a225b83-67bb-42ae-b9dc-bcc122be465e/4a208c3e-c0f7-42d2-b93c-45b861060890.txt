@@ -1,0 +1,8 @@
+WATER CHEMISTRY CONTROL
+5Guidelines for Initial 
+Start-up/Cleanup, Steam Blowing, and Restarts After Long Outages 
+1.Flush to waste until suspended solids in the condensate, feedwater 
+and boiler water are less than 3 ppm (a).  The feedwater (b) can be 
+pumped through the boiler into the start-up separator, flash tank (if 
+present), and then to waste.
+2. When this limit is achieved, circulate water through boiler, start-up

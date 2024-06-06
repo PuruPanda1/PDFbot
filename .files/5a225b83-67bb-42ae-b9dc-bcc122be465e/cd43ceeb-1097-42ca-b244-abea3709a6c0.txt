@@ -1,0 +1,5 @@
+pH-value - 9.0 - 9.6*  --- --- --- m 
+Sodium as Na ppb < 5  5 -10 10 - 20 > 20 m or c 
+Silica as SiO 2 ppb < 20  t 20 ** --- --- c 
+Iron as Fe ppb < 20  --- --- --- m 
+1802 - 1803 VOL - A1 TAB - 1 - 64

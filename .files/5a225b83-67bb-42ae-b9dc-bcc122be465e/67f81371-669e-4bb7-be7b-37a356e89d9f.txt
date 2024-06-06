@@ -1,0 +1,16 @@
+WATER CHEMISTRY CONTROL
+33. Feedwater (AVT 
+Treatment - 
+Measurements at 
+Economizer Inlet) 
+Parameter Unit N A1 A2 S An  
+        
+Specific conductivity PS/cm 4.0-11 --- --- --- c  
+Conductivity after cation exch. PS/cm < 0.20 0.2 - 0.5 > 0.5 > 1 c  
+pH-value --- 9.2 - 9.6 < 9.2 
+> 9.6 > 10 d 7 * c
+Sodium as Na ppb < 5 5 - 10 10 -  20 > 20 m or c  
+Silica as SiO 2 ppb < 20 t 20 ** --- --- m  
+Iron as Fe ppb < 20 --- --- --- m  
+Hydrazine ppb ***   m  
+Oxygen ppb < 10 t50 **** --- --- c

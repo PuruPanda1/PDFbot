@@ -1,0 +1,8 @@
+separator, flash tank and back to condenser.  The condensate pol-ishers can now be placed in service. 
+3. When the feedwater total iron concentration drops below 1 ppm, sil-
+ica is less than 100 ppb, and cation conductivity is less than 1 
+PS/cm (c), unit firing can commence.  Boiler and start-up system 
+operation should be as per instruction manual. 
+a. Permissible value depends on polisher perfor-
+mance/constraints. 
+b. Feedwater pH > 9. c. Parameters measured at economizer inlet.

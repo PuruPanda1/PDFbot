@@ -1,0 +1,8 @@
+cluded. 
+Operation is desirable at the lowest achievable impurity levels, with the shortest and least fre-
+quent excursions. 
+The specification is related to the following conditions: 
+x There are no copper alloys in the system 
+x Conditioning is done with ammonia and oxygen injection. 
+Note: This is a general specification, valid for the plant type mentioned only. The criteria will be 
+reviewed for a specific application and at commissioning.

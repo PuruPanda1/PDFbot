@@ -1,0 +1,4 @@
+corrosion and the production of iron oxide can be accomplished with ei-
+ther all-volatile treatment (AVT) or oxygenated treatment (OT).  Due to the greater concern for copper transport at supercritical pressures and its impact on turbine performance, feedwater systems in these once-through units consist primarily of ferritic alloys and do not contain copper 
+alloys downstream of the condensate polishers.  
+Controlling feedwater contaminants to a minimum is critical in once-
